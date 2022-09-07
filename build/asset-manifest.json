@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jiun-test/static/css/main.eed16073.css",
+    "main.js": "/jiun-test/static/js/main.0cdc20ef.js",
+    "service-worker.js": "/jiun-test/service-worker.js",
+    "static/media/SEGA.woff": "/jiun-test/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/jiun-test/index.html",
+    "main.eed16073.css.map": "/jiun-test/static/css/main.eed16073.css.map",
+    "main.0cdc20ef.js.map": "/jiun-test/static/js/main.0cdc20ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed16073.css",
+    "static/js/main.0cdc20ef.js"
+  ]
+}
