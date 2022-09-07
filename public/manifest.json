@@ -23,7 +23,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/jiun-test/?source=pwa",
+  "start_url": "/jiun-react-test/?source=pwa",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
